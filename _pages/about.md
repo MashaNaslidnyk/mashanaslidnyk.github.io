@@ -13,8 +13,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a first-year PhD student at the [Foundational AI CDT](http://www.ucl.ac.uk/ai-centre/) at University College London, advised by [Dr. François-Xavier Briol](http://fxbriol.github.io/) and [Dr. Carlo Ciliberto](http://cciliber.github.io/). Prior to starting my PhD, I was a Machine Learning Scientist at Amazon Research in Cambridge, where I worked on Alexa question answering (2015-2019), and then on Gaussian processes for supply chain emulation (2019-2021). I graduated from Part III in Pure Mathematics at the University of Cambridge in 2014.
+Hi! I am a PhD student at the [Foundational AI CDT](http://www.ucl.ac.uk/ai-centre/) at University College London, advised by [Dr. François-Xavier Briol](http://fxbriol.github.io/) and [Dr. Carlo Ciliberto](http://cciliber.github.io/). Prior to starting my PhD, I was a Machine Learning Scientist at Amazon Research in Cambridge, where I worked on Alexa question answering (2015-2019), and then on Gaussian processes for supply chain emulation (2019-2021). I graduated from Part III in Pure Mathematics at the University of Cambridge in 2014.
 
-My research interests lie broadly in the topics in Gaussian processes and kernel methods, and robustness properties thereof.
+My research interests lie broadly in the topics in Gaussian processes and kernel methods; at present, I am focussed on robust inference in conditional probability models.
 
 I will happily respond to "Masha", but if you'd like to pronounce my last name, it's nah-sleed-nyk, "y" as in "six".
