@@ -5,6 +5,10 @@ title: presentations
 nav: true
 ---
 
+* 27th June 2023. *"Robust Empirical Bayes for Gaussian Processes."*.
+
+Talk @ **UCL**, the 2023 Distance-based methods in Machine Learning workshop (London, UK).
+
 * 29th March 2023. *"Robust Estimation for Gaussian Processes and Beyond"*.
 
 Talk @ **University of Tübingen**, the 2023 Probabilistic Numerics Spring School (Tübingen, Germany).
