@@ -5,26 +5,24 @@ title: presentations
 nav: true
 ---
 
-* 27th June 2023. *"Robust Empirical Bayes for Gaussian Processes."*.
+💬 July 2024. Talk @ **Ca’ Foscari University of Venice**, the [2024 International Society for Bayesian Analysis (ISBA) World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Italy).
 
-Talk @ **UCL**, the 2023 Distance-based methods in Machine Learning workshop (London, UK).
+🪧 March 2024. Poster @ **University of Bristol**, [Workshop on Functional Inference and Machine Intelligence (FIMI)](https://ismseminar.github.io/fimi2024/) (Bristol, UK).
 
-* 29th March 2023. *"Robust Estimation for Gaussian Processes and Beyond"*.
+💬 March 2024. Talk @ **University of Bristol**, [Statistics Seminar](https://www.bristolmathsresearch.org/seminar/masha-naslidnyk/) (Bristol, UK).
 
-Talk @ **University of Tübingen**, the 2023 Probabilistic Numerics Spring School (Tübingen, Germany).
+💬 September 2023. Talk @ **University of Manchester**, [2023 Gaussian Process Summer School](https://gpss.cc/gpss23/) (Manchester, UK).
 
-* 9th March 2023. *"Robust Empirical Bayes for Gaussian Processes"*.
+💬 September 2023. Talk @ **CISPA - Helmholtz Center for Information Security**, (Saarbrücken, Germany).
 
-Talk @ **Isaac Newton Institute for Mathematical Sciences**, as part of the programme on The Mathematical and Statistical Foundation of Future Data-Driven Engineering (Cambridge, UK).
+💬 June 2023. Talk @ **UCL**, the [2023 Distance-based methods in Machine Learning workshop](https://dbmml.github.io/) (London, UK).
 
-* 16th January 2023. *"Robust Empirical Bayes for Gaussian Processes"*.
+💬 March 2023. Talk @ **University of Tübingen**, the [2023 Probabilistic Numerics Spring School](https://www.probabilistic-numerics.org/meetings/2023_SpringSchool/) (Tübingen, Germany).
 
-Poster @ **Isaac Newton Institute for Mathematical Sciences**, a tutorial workshop for the DDE programme (Cambridge, UK).
+💬 March 2023. Talk @ **Isaac Newton Institute for Mathematical Sciences**, as part of the programme on [The Mathematical and Statistical Foundation of Future Data-Driven Engineering](https://www.newton.ac.uk/event/dde/) (Cambridge, UK).
 
-* 28th March 2022. *"On robust Gaussian Process regression"*.
+🪧 January 2023. Poster @ **Isaac Newton Institute for Mathematical Sciences**, a tutorial workshop for the DDE programme (Cambridge, UK).
 
-Talk @ **Heilbronn Institute for Mathematical Research**, The 2022 workshop on Probabilistic Approaches to Numerical Computation (London, UK).
+💬 March 2022. Talk @ **Heilbronn Institute for Mathematical Research**, [The 2022 workshop on Probabilistic Approaches to Numerical Computation](https://probnum2022.github.io/) (London, UK).
 
-* 14th December 2021. *"Invariant Priors for Bayesian Quadrature"*.
-
-Talk @ **NeurIPS workshop on robustness and misspecification in probabilistic modeling** (Online).
+💬 December 2021. Talk @ **NeurIPS workshop**, [Your Model is Wrong: Robustness and misspecification in probabilistic modeling](https://neurips.cc/virtual/2021/workshop/21872) (Online).
