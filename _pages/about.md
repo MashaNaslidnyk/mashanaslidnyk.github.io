@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: 📍 PhD student @ UCL. She/her.
+subtitle: 📍 PhD student @ UCL. She/her.
 
 profile:
   align: right
@@ -17,4 +17,4 @@ Hi! I am a PhD student at the [Fundamentals of Statistical Machine Learning](htt
 
 My research interests lie broadly in the topics in Gaussian processes and kernel methods; at present, I am focussed on robust inference in conditional probability models.
 
-I will happily respond to "Masha", but if you'd like to pronounce my last name, it's nah-sleed-nyk, "y" as in "six".
+I will happily respond to "Masha", but if you'd like to pronounce my last name, it's nah-sleed-nyk.
