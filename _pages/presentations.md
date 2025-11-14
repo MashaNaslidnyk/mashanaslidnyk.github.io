@@ -5,6 +5,22 @@ title: presentations
 nav: true
 ---
 
+💬 June 2026. Talk @ **5th Italian Meeting on Probability and Mathematical Statistics** (Palermo, Italy).
+
+💬 January 2026. Talk @ [**French Uncertainty Quantification/Sensitivity Analysis seminar (UQSay)**](https://www.uqsay.org/p/welcome.html) (online).
+
+💬 November 2025. Talk @ **University of Exeter**, [Statistics and Data Science Seminar](https://www.exeter.ac.uk/events/details/index.php?event=15171)(Exeter, UK).
+
+🪧 July 2025. 2 posters at @ **International Conference on Machine Learning (ICML)** (Vancouver, Canada).
+
+💬 June 2025. Talk @ **Isaac Newton Institute for Mathematical Sciences**, [Workshop on accelerating statistical inference and experimental design with machine learning](https://www.newton.ac.uk/event/rclw03/)(Cambridge, UK).
+
+💬 June 2025. Talk @ **Gatsby Computational Neuroscience Unit** (London, UK).
+
+💬 May 2025. Talk @ **Isaac Newton Institute for Mathematical Sciences**, [Workshop on uncertainty in multivariate, non-Euclidean, and functional spaces](https://www.newton.ac.uk/event/rclw01/)(Cambridge, UK).
+
+💬 August 2024. Talk @ **University of British Columbia** (Vancouver, Canada).
+
 💬 July 2024. Talk @ **Ca’ Foscari University of Venice**, the [2024 International Society for Bayesian Analysis (ISBA) World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Italy).
 
 🪧 March 2024. Poster @ **University of Bristol**, [Workshop on Functional Inference and Machine Intelligence (FIMI)](https://ismseminar.github.io/fimi2024/) (Bristol, UK).
