@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 📍 PhD student @ UCL. She/her.
+subtitle: 📍 Postdoc @ UCL. She/her.
 
 profile:
   align: right
